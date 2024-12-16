@@ -3,8 +3,10 @@ export default function AboutSection() {
     <section className="mt-16 md:mt-0 container text-center w-full flex flex-col space-y-10 justify-center items-center" id="about">
       <h2 className="uppercase font-medium text-[var(--primary-color)] text-5xl">About</h2>
       <p className="text-xl uppercase font-medium md:max-w-2xl">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur, tempora eligendi aliquid odit accusamus ullam dolorem fuga velit doloremque porro neque eos a, quibusdam at veniam itaque laboriosam accusantium nobis autem nam
-        possimus sunt? Consequuntur obcaecati rerum beatae nobis debitis ut distinctio sequi animi, corrupti nisi
+       hi kenalin, nama aku fani lestari.
+       aku adalah mahasiswi universitas sains al-qur'an dengan prodi teknik informatika
+       selain menjadi mahasiswi aku juga seorang santri pada ponpes al-anshor singkir jaraksari
+       aku berharap aku bisa menjadi manusia yang bermanfaat bagi diriku sendiri ataupun bagi orang lain
       </p>
     </section>
   );
