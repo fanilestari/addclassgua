@@ -79,7 +79,7 @@ export default function Footer() {
           </li>
 
           <li>
-            <a href="#" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75">
+            <a href="https://www.instagram.com/minni_e5231/?igsh=MXZ1YWFqd3E5eXowZg%3D%3D" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75">
               <span className="sr-only">Instagram</span>
               <svg className="size-7" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path

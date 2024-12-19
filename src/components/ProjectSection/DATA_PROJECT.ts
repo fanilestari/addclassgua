@@ -16,7 +16,7 @@ export const DATA_PROJECT: IProject[] = [
   {
     title: 'Hafalan Imrithy',
     tag: 'Proyek pondok',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo rerum architecto velit quo ex beatae cumque quibusdam totam dolores laudantium voluptatem, doloremque nobis sapiente labore aperiam nulla blanditiis quod dolore',
+    desc: 'supaya mengetahui kaidah nahwu',
     img: '/img/imriti.jpg',
   },
   
