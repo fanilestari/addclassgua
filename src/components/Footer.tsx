@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
 
         <p className="mx-auto mt-6 max-w-md text-center text-xl uppercase font-medium md:max-w-2xl">
-          kamu bisa temukan aku dibawah ini ya
+          jangan lupa follow aku ya hehe
         </p>
 
         <ul className="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12 text-xl">
@@ -101,7 +101,7 @@ export default function Footer() {
           </li>
 
           <li>
-            <a href="#" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75">
+            <a href="https://github.com/fanilestari" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:text-gray-700/75">
               <span className="sr-only">GitHub</span>
               <svg className="size-7" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path

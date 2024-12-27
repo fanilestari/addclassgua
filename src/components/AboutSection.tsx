@@ -1,3 +1,4 @@
+
 export default function AboutSection() {
   return (
     <section className="mt-16 md:mt-0 container text-center w-full flex flex-col space-y-10 justify-center items-center" id="about">
@@ -11,3 +12,4 @@ export default function AboutSection() {
     </section>
   );
 }
+
